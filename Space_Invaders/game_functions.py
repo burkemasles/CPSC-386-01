@@ -31,6 +31,7 @@ def ship_hit(ai_settings, stats, screen, sb, ship, aliens, bullets, alien_bullet
 
         create_fleet(ai_settings, screen, ship, aliens)
         ship.center_ship()
+        ai_settings.sound_counter_reset = 200
 
         sleep(0.5)
     else:
@@ -238,7 +239,8 @@ def change_fleet_direction(ai_settings, aliens):
     for alien in aliens.sprites():
         alien.rect.y += ai_settings.fleet_drop_speed
         alien.change_sprite()
-    ai_settings.sound.play()
+    if ai_settings.sound_counter_reset >= 0:
+        ai_settings.sound_counter_reset -= 10
     ai_settings.fleet_direction *= -1
 
 

@@ -48,6 +48,11 @@ def run_game():
                 gf.update_aliens(ai_settings, screen, stats, sb, ship, aliens, bullets, False, alien_bullets)
             gf.update_screen(ai_settings, screen, stats, sb,
                              ship, aliens, bullets, play_button, alien_bullets)
+            if ai_settings.sound_counter <= 0:
+                ai_settings.sound.play()
+                ai_settings.sound_counter = ai_settings.sound_counter_reset
+            else:
+                ai_settings.sound_counter -= 1
         elif not stats.high_score_screen_active:
             gf.update_start_screen(screen, ai_settings, play_button, ss)
         else:

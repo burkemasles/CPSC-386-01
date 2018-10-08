@@ -25,6 +25,9 @@ class Settings():
 
         self.sound = pygame.mixer.Sound("sound.wav")
 
+        self.sound_counter = 200
+        self.sound_counter_reset = 200
+
         self.initialize_dynamic_settings()
 
     def initialize_dynamic_settings(self):
