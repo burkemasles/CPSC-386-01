@@ -1,0 +1,202 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane,StaticMesh,Hard,6426,None
+0,/Engine/BasicShapes/Cone,StaticMesh,Hard,44971,None
+0,/Engine/BasicShapes/Cube,StaticMesh,Hard,9648,None
+0,/Engine/BasicShapes/Cylinder,StaticMesh,Hard,68329,None
+0,/Engine/BasicShapes/Plane,StaticMesh,Hard,4887,None
+0,/Engine/BasicShapes/Sphere,StaticMesh,Hard,97356,None
+0,/Engine/EditorBlueprintResources/StandardMacros,Blueprint,Hard,1017,None
+0,/Engine/EditorLandscapeResources/DataLayer,LandscapeLayerInfoObject,Hard,746,None
+0,/Engine/EditorMaterials/Camera/CineMat,Material,Hard,134193,None
+0,/Engine/EditorMaterials/Camera/MI_CineMat_Rig,MaterialInstanceConstant,Hard,1650,None
+0,/Engine/EditorMaterials/GizmoMaterial,Material,Hard,22534,None
+0,/Engine/EditorMaterials/MAT_Groups_Toggle,Texture2D,Hard,1473,None
+0,/Engine/EditorMaterials/MAT_Groups_Visibility,Texture2D,Hard,1481,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack,Texture2D,Hard,1761,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim,Texture2D,Hard,1483,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster,Texture2D,Hard,1497,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director,Texture2D,Hard,1491,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event,Texture2D,Hard,1485,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade,Texture2D,Hard,1299,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float,Texture2D,Hard,1485,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move,Texture2D,Hard,1483,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo,Texture2D,Hard,1485,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound,Texture2D,Hard,1485,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector,Texture2D,Hard,1487,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage,Texture2D,Hard,44878,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD,Texture2D,Hard,23002,None
+0,/Engine/EditorMaterials/PreviewShadowIndicator,Texture2D,Hard,1399549,None
+0,/Engine/EditorMaterials/PreviewShadowIndicatorMaterial,Material,Hard,78300,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Arm,StaticMesh,Hard,5278,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Base,StaticMesh,Hard,104884,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Body,StaticMesh,Hard,96476,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Mount,StaticMesh,Hard,22690,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Mount,StaticMesh,Hard,163912,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Track,StaticMesh,Hard,134128,None
+0,/Engine/EditorResources/BSPVertex,Texture2D,Hard,1457,None
+0,/Engine/EditorResources/EmptyActor,Texture2D,Hard,351017,None
+0,/Engine/EditorResources/S_Actor,Texture2D,Hard,88629,None
+0,/Engine/EditorResources/S_Trigger,Texture2D,Hard,350912,None
+0,/Engine/EditorResources/SequenceRecorder/Countdown,Texture2D,Hard,148609,None
+0,/Engine/EditorResources/SequenceRecorder/RecordingIndicator,Texture2D,Hard,2743,None
+0,/Engine/EditorSounds/Notifications/CompileFailed,SoundWave,Hard,13845,None
+0,/Engine/EditorSounds/Notifications/CompileFailed_Cue,SoundCue,Hard,1850,None
+0,/Engine/EditorSounds/Notifications/CompileStart_Cue,SoundCue,Hard,1905,None
+0,/Engine/EditorSounds/Notifications/CompileSuccess,SoundWave,Hard,15562,None
+0,/Engine/EditorSounds/Notifications/CompileSuccess_Cue,SoundCue,Hard,1856,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,Blueprint,Hard,1174,None
+0,/Engine/EngineDebugMaterials/BoneWeightMaterial,Material,Hard,352955,None
+0,/Engine/EngineDebugMaterials/ClothMaterial,Material,Hard,32080,None
+0,/Engine/EngineDebugMaterials/ClothMaterial_WF,Material,Hard,52143,None
+0,/Engine/EngineDebugMaterials/DebugEditorMaterial,Material,Hard,23359,None
+0,/Engine/EngineDebugMaterials/DebugMeshMaterial,Material,Hard,38116,None
+0,/Engine/EngineDebugMaterials/GeomMaterial,Material,Hard,34658,None
+0,/Engine/EngineDebugMaterials/HeatmapGradient,Texture2D,Hard,5563,None
+0,/Engine/EngineDebugMaterials/M_SimpleTranslucent,Material,Hard,149083,None
+0,/Engine/EngineFonts/Faces/RobotoBold,FontFace,Hard,732,None
+0,/Engine/EngineFonts/Faces/RobotoBoldItalic,FontFace,Hard,758,None
+0,/Engine/EngineFonts/Faces/RobotoItalic,FontFace,Hard,746,None
+0,/Engine/EngineFonts/Faces/RobotoLight,FontFace,Hard,866,None
+0,/Engine/EngineFonts/Faces/RobotoRegular,FontFace,Hard,741,None
+0,/Engine/EngineFonts/Faces/RobotoTiny,FontFace,Hard,859,None
+0,/Engine/EngineFonts/Roboto,Font,Hard,2507,None
+0,/Engine/EngineFonts/RobotoDistanceField,Font,Hard,138925,None
+0,/Engine/EngineFonts/RobotoTiny,Font,Hard,1504,None
+0,/Engine/EngineMaterials/BaseFlattenDiffuseMap,Texture2D,Hard,1845,None
+0,/Engine/EngineMaterials/BaseFlattenEmissiveMap,Texture2D,Hard,1907,None
+0,/Engine/EngineMaterials/BaseFlattenGrayscaleMap,Texture2D,Hard,6767,None
+0,/Engine/EngineMaterials/BaseFlattenMaterial,Material,Hard,192500,None
+0,/Engine/EngineMaterials/BaseFlattenNormalMap,Texture2D,Hard,1300,None
+0,/Engine/EngineMaterials/DefaultBloomKernel,Texture2D,Hard,33555651,None
+0,/Engine/EngineMaterials/DefaultBokeh,Texture2D,Hard,23213,None
+0,/Engine/EngineMaterials/DefaultDeferredDecalMaterial,Material,Hard,532223,None
+0,/Engine/EngineMaterials/DefaultDiffuse,Texture2D,Hard,700379,None
+0,/Engine/EngineMaterials/DefaultLightFunctionMaterial,Material,Hard,71547,None
+0,/Engine/EngineMaterials/DefaultMaterial,Material,Hard,438745,None
+0,/Engine/EngineMaterials/DefaultPhysicalMaterial,PhysicalMaterial,Hard,654,None
+0,/Engine/EngineMaterials/DefaultPostProcessMaterial,Material,Hard,39260,None
+0,/Engine/EngineMaterials/DefaultTextMaterialOpaque,Material,Hard,126558,None
+0,/Engine/EngineMaterials/DefaultWhiteGrid,Texture2D,Hard,12147,None
+0,/Engine/EngineMaterials/EditorBrushMaterial,Material,Hard,33679,None
+0,/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq,Texture2D,Hard,5384,None
+0,/Engine/EngineMaterials/InvalidLightmapSettings,Texture2D,Hard,176073,None
+0,/Engine/EngineMaterials/M_InvalidLightmapSettings,Material,Hard,140784,None
+0,/Engine/EngineMaterials/MiniFont,Texture2D,Hard,2991,None
+0,/Engine/EngineMaterials/PhAT_JointLimitMaterial,Material,Hard,60269,None
+0,/Engine/EngineMaterials/PreintegratedSkinBRDF,Texture2D,Hard,263121,None
+0,/Engine/EngineMaterials/RemoveSurfaceMaterial,Material,Hard,10287,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_M,Texture2D,Hard,350913,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_N,Texture2D,Hard,88992,None
+0,/Engine/EngineMaterials/WeightMapPlaceholderTexture,Texture2D,Hard,1045,None
+0,/Engine/EngineMaterials/Widget3DPassThrough,Material,Hard,38118,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked,MaterialInstanceConstant,Hard,39222,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided,MaterialInstanceConstant,Hard,38980,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque,MaterialInstanceConstant,Hard,23758,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided,MaterialInstanceConstant,Hard,11972,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent,MaterialInstanceConstant,Hard,40686,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided,MaterialInstanceConstant,Hard,36707,None
+0,/Engine/EngineMaterials/WorldGridMaterial,Material,Hard,2490333,None
+0,/Engine/EngineMeshes/Cylinder,StaticMesh,Hard,22967,None
+0,/Engine/EngineMeshes/Sphere,StaticMesh,Hard,51279,None
+0,/Engine/EngineResources/Black,Texture2D,Hard,1714,None
+0,/Engine/EngineResources/DefaultTexture,Texture2D,Hard,12044,None
+0,/Engine/EngineResources/DefaultTextureCube,TextureCube,Hard,66618,None
+0,/Engine/EngineResources/DefaultVolumeTexture,VolumeTexture,Hard,1329,None
+0,/Engine/EngineResources/DefaultVolumeTexture2D,Texture2D,Hard,1409,None
+0,/Engine/EngineResources/GradientTexture0,Texture2D,Hard,6857,None
+0,/Engine/EngineResources/WhiteSquareTexture,Texture2D,Hard,1740,None
+0,/Engine/EngineSky/BP_Sky_Sphere,Blueprint,Hard,23975,None
+0,/Engine/EngineSky/C_Sky_Cloud_Color,CurveLinearColor,Hard,1725,None
+0,/Engine/EngineSky/C_Sky_Horizon_Color,CurveLinearColor,Hard,1729,None
+0,/Engine/EngineSky/C_Sky_Zenith_Color,CurveLinearColor,Hard,1808,None
+0,/Engine/EngineSky/M_Sky_Panning_Clouds2,Material,Hard,23784,None
+0,/Engine/EngineSky/SM_SkySphere,StaticMesh,Hard,255784,None
+0,/Engine/EngineSky/T_Sky_Blue,Texture2D,Hard,2797779,None
+0,/Engine/EngineSky/T_Sky_Clouds_M,Texture2D,Hard,700651,None
+0,/Engine/EngineSky/T_Sky_Stars,Texture2D,Hard,176171,None
+0,/Engine/EngineSounds/Master,SoundClass,Hard,919,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade,MaterialFunction,Hard,1239,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec,MaterialFunction,Hard,986,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness,MaterialFunction,Hard,928,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components,MaterialFunction,Hard,1180,None
+0,/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset,MaterialFunction,Hard,1209,None
+0,/Engine/Maps/Entry,World,Hard,12298,None
+0,/Engine/Maps/Entry_BuiltData,MapBuildDataRegistry,Hard,26907,None
+0,/Engine/Maps/Templates/Thumbnails/Default,Texture2D,Hard,161276,None
+0,/Engine/Maps/Templates/Thumbnails/VR-Basic,Texture2D,Hard,161278,None
+0,/Engine/MobileResources/HUD/AnalogHat,Texture2D,Hard,2645,None
+0,/Engine/MobileResources/HUD/DefaultVirtualJoysticks,TouchInterface,Hard,2634,None
+0,/Engine/MobileResources/HUD/LeftVirtualJoystickOnly,TouchInterface,Hard,2057,None
+0,/Engine/MobileResources/HUD/MobileHUDButton1_off,Texture2D,Hard,4079,None
+0,/Engine/MobileResources/HUD/MobileHUDButton1_on,Texture2D,Hard,4077,None
+0,/Engine/MobileResources/HUD/MobileHUDButton2_off,Texture2D,Hard,6867,None
+0,/Engine/MobileResources/HUD/MobileHUDButton2_on,Texture2D,Hard,6865,None
+0,/Engine/MobileResources/HUD/MobileHUDButton3,Texture2D,Hard,2659,None
+0,/Engine/MobileResources/HUD/MobileHUDButtonFire,Texture2D,Hard,6797,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionPad,Texture2D,Hard,23221,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionPad2,Texture2D,Hard,45115,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionPad3,Texture2D,Hard,45115,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionStick,Texture2D,Hard,6805,None
+0,/Engine/MobileResources/HUD/T_Castle_ThumbstickInner,Texture2D,Hard,17632,None
+0,/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter,Texture2D,Hard,66786,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Background,Texture2D,Hard,263396,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Thumb,Texture2D,Hard,17626,None
+0,/Engine/MobileResources/T_MobileControls_texture,Texture2D,Hard,351131,None
+0,/Engine/MobileResources/T_MobileMenu2,Texture2D,Hard,350953,None
+0,/Engine/Tutorial/ContentIntroCurve,CurveFloat,Hard,963,None
+0,/Engine/VREditor/LaserPointer/VR_LaserPower_01,Texture2D,Hard,176065,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxCorner,StaticMesh,Hard,19548,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxEdge,StaticMesh,Hard,10464,None
+0,/Engine/VREditor/TransformGizmo/Main,Material,Hard,36963,None
+0,/Engine/VREditor/TransformGizmo/PlaneTranslationHandle,StaticMesh,Hard,17626,None
+0,/Engine/VREditor/TransformGizmo/SM_Sequencer_Key,StaticMesh,Hard,68296,None
+0,/Engine/VREditor/TransformGizmo/SM_Sequencer_Node,StaticMesh,Hard,12874,None
+0,/Engine/VREditor/TransformGizmo/TransformGizmoMaterial,Material,Hard,13128,None
+0,/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial,Material,Hard,36573,None
+0,/Engine/VREditor/TransformGizmo/Xray,Material,Hard,66130,None
+0,/Game/BananaCollector/Blueprints/BigGrass,Blueprint,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass,26792,None
+0,/Game/BananaCollector/Blueprints/BP_Banana,Blueprint,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Blueprints/BP_Banana,7594,None
+0,/Game/BananaCollector/Blueprints/BP_Player,Blueprint,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Blueprints/BP_Player,11460,None
+0,/Game/BananaCollector/Blueprints/Car,Blueprint,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Blueprints/Car,7608,None
+0,/Game/BananaCollector/Blueprints/GM_Tutorial,Blueprint,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/GM_Tutorial,3148,None
+0,/Game/BananaCollector/Blueprints/LevelSpawner,Blueprint,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Blueprints/LevelSpawner,10739,None
+0,/Game/BananaCollector/Blueprints/Tree,Blueprint,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Blueprints/Tree,4378,None
+0,/Game/BananaCollector/Maps/TutorialMap,World,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap,24546,None
+0,/Game/BananaCollector/Maps/TutorialMap_BuiltData,MapBuildDataRegistry,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Maps/TutorialMap_BuiltData,827,None
+0,/Game/BananaCollector/Materials/M_Banana,Material,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Blueprints/BP_Banana->/Game/BananaCollector/Meshes/SM_Banana->/Game/BananaCollector/Materials/M_Banana,68233,None
+0,/Game/BananaCollector/Materials/M_Cube,Material,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Materials/M_Cube,65203,None
+0,/Game/BananaCollector/Materials/M_Level,Material,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Materials/M_Level,64181,None
+0,/Game/BananaCollector/Meshes/BigGrass,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Meshes/BigGrass,7687,None
+0,/Game/BananaCollector/Meshes/BigGrass1,Texture2D,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Meshes/BigGrass->/Game/BananaCollector/Meshes/palette->/Game/BananaCollector/Meshes/BigGrass1,3290,None
+0,/Game/BananaCollector/Meshes/BlueCar,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Blueprints/Car->/Game/BananaCollector/Meshes/BlueCar,55535,None
+0,/Game/BananaCollector/Meshes/Bush,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Meshes/Bush,12767,None
+0,/Game/BananaCollector/Meshes/Chicken,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Blueprints/BP_Player->/Game/BananaCollector/Meshes/Chicken,35981,None
+0,/Game/BananaCollector/Meshes/GreenCar,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Meshes/GreenCar,61467,None
+0,/Game/BananaCollector/Meshes/medium_road,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Meshes/medium_road,42585,None
+0,/Game/BananaCollector/Meshes/OrangeCar,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Meshes/OrangeCar,58325,None
+0,/Game/BananaCollector/Meshes/palette,Material,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Meshes/BigGrass->/Game/BananaCollector/Meshes/palette,68186,None
+0,/Game/BananaCollector/Meshes/PurpleCar,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Meshes/PurpleCar,58261,None
+0,/Game/BananaCollector/Meshes/Railroad_TrackMat,Material,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Meshes/Railroad_TrackMat,66647,None
+0,/Game/BananaCollector/Meshes/SM_Banana,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Blueprints/BP_Banana->/Game/BananaCollector/Meshes/SM_Banana,624125,None
+0,/Game/BananaCollector/Meshes/Taxi,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Meshes/Taxi,74681,None
+0,/Game/BananaCollector/Meshes/Train_ArmMat,Material,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Meshes/Train_ArmMat,66447,None
+0,/Game/BananaCollector/Meshes/Tree,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Maps/TutorialMap->/Game/BananaCollector/Blueprints/LevelSpawner->/Game/BananaCollector/Blueprints/BigGrass->/Game/BananaCollector/Blueprints/Tree->/Game/BananaCollector/Meshes/Tree,14695,None
+0,/Game/BananaCollector/Textures/T_Banana_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/BananaCollector/Blueprints/BP_Banana->/Game/BananaCollector/Meshes/SM_Banana->/Game/BananaCollector/Materials/M_Banana->/Game/BananaCollector/Textures/T_Banana_D,700378,None
+0,/OculusVR/Materials/GearVRControllerMaterial,Material,Hard,70954,None
+0,/OculusVR/Materials/PokeAHoleMaterial,Material,Hard,33470,None
+0,/OculusVR/Materials/touchController_mat,Material,Hard,197664,None
+0,/OculusVR/Meshes/GearVrController,StaticMesh,Hard,91983,None
+0,/OculusVR/Meshes/LeftTouchController,StaticMesh,Hard,1153125,None
+0,/OculusVR/Meshes/RiftHMD,StaticMesh,Hard,67098,None
+0,/OculusVR/Meshes/RightTouchController,StaticMesh,Hard,1164867,None
+0,/OculusVR/Textures/GearVRController_AO,Texture2D,Hard,700384,None
+0,/OculusVR/Textures/GearVRController_Color,Texture2D,Hard,350842,None
+0,/OculusVR/Textures/GearVRController_Normal,Texture2D,Hard,1399456,None
+0,/OculusVR/Textures/touchController_albedo,Texture2D,Hard,5593794,None
+0,/OculusVR/Textures/touchController_controlmap,Texture2D,Hard,350910,None
+0,/Paper2D/DefaultPaperTerrainMaterial,PaperTerrainMaterial,Hard,1452,None
+0,/Paper2D/DefaultSpriteMaterial,Material,Hard,39422,None
+0,/Paper2D/DummySprite,PaperSprite,Hard,2791,None
+0,/Paper2D/MaskedUnlitSpriteMaterial,MaterialInstanceConstant,Hard,2064,None
+0,/Paper2D/OpaqueUnlitSpriteMaterial,MaterialInstanceConstant,Hard,23524,None
+0,/Paper2D/PlaceholderTextures/DummySpriteTexture,Texture2D,Hard,23092,None
